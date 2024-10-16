@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest063 it.cpp
+C:\Users\Iryna Kreminska\source\repos\Lab_06.3 it\Lab_06.3 it\Lab_06.3 it.cpp(71,32): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file '/UnitTest063%20it.cpp')
+  
+C:\Users\Iryna Kreminska\source\repos\Lab_06.3 it\Lab_06.3 it\Lab_06.3 it.cpp(71,27): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file '/UnitTest063%20it.cpp')
+  
+     Creating library C:\Users\Iryna Kreminska\source\repos\Lab_06.3 it\x64\Debug\UnitTest063 it.lib and object C:\Users\Iryna Kreminska\source\repos\Lab_06.3 it\x64\Debug\UnitTest063 it.exp
+  UnitTest063 it.vcxproj -> C:\Users\Iryna Kreminska\source\repos\Lab_06.3 it\x64\Debug\UnitTest063 it.dll
